@@ -30,7 +30,7 @@ I'm studying at the university, but right now i'm on gap year
 - HTML CSS
 
 
-===
+****
 
 ## Code example: [](#english-level)
 **Disemvowel Trolls** KATA from CODEWARS:
@@ -65,7 +65,7 @@ function disemvowel(str) {
 }
 ```
 
-===
+****
 
 
 ## English level:
