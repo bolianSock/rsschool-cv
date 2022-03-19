@@ -1,3 +1,2 @@
 # rsschool-cv
-
-https://bolianSock.github.io/rsschool-cv/cv
+https://github.com/bolianSock/rsschool-cv/blob/gh-pages/CV.md
