@@ -1,0 +1,57 @@
+2022-03-19T13:15:45.671Z - error: No config file found in parent directories of C:\projects_rss\rsschool-cv
+2022-03-19T13:15:45.729Z - error: uncaughtException: The "path" argument must be of type string. Received undefined date=Sat Mar 19 2022 16:15:45 GMT+0300 (モスクワ標準時), pid=20284, uid=null, gid=null, cwd=C:\projects_rss\rsschool-cv, execPath=C:\Program Files\nodejs\node.exe, version=v17.7.2, argv=[C:\Program Files\nodejs\node.exe, C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\index.js, serve], rss=93016064, heapTotal=67809280, heapUsed=38527880, external=1389039, arrayBuffers=314936, loadavg=[0, 0, 0], uptime=1978630
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:372:5)
+    at validateString (node:internal/validators:120:11)
+    at Object.join (node:path:429:7)
+    at Command.<anonymous> (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\index.js:118:29)
+    at Command.listener [as _actionHandler] (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:488:17)
+    at C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:1227:65
+    at Command._chainOrCall (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:1144:12)
+    at Command._parseCommand (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:1227:27)
+    at Command._dispatchSubcommand (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:1050:25)
+    at Command._parseCommand (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:1193:19)
+    at Command.parse (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:897:10)
+    at Object.<anonymous> (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\index.js:339:9)
+    at Module._compile (node:internal/modules/cjs/loader:1099:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-03-19T13:18:05.434Z - error: No config file found in parent directories of C:\projects_rss\rsschool-cv
+2022-03-19T13:18:05.500Z - error: uncaughtException: The "path" argument must be of type string. Received undefined date=Sat Mar 19 2022 16:18:05 GMT+0300 (モスクワ標準時), pid=22332, uid=null, gid=null, cwd=C:\projects_rss\rsschool-cv, execPath=C:\Program Files\nodejs\node.exe, version=v17.7.2, argv=[C:\Program Files\nodejs\node.exe, C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\index.js, serve], rss=93478912, heapTotal=67547136, heapUsed=38886848, external=1372613, arrayBuffers=298510, loadavg=[0, 0, 0], uptime=1978770
+TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:372:5)
+    at validateString (node:internal/validators:120:11)
+    at Object.join (node:path:429:7)
+    at Command.<anonymous> (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\index.js:118:29)
+    at Command.listener [as _actionHandler] (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:488:17)
+    at C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:1227:65
+    at Command._chainOrCall (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:1144:12)
+    at Command._parseCommand (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:1227:27)
+    at Command._dispatchSubcommand (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:1050:25)
+    at Command._parseCommand (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:1193:19)
+    at Command.parse (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\commander\lib\command.js:897:10)
+    at Object.<anonymous> (C:\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\index.js:339:9)
+    at Module._compile (node:internal/modules/cjs/loader:1099:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:975:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+2022-03-19T13:18:50.399Z - info: Initialization success.
+2022-03-19T13:19:27.124Z - info: Website generation started at 16:19:26
+2022-03-19T13:19:27.327Z - info: Building assets...
+2022-03-19T13:19:27.400Z - info: Assets built
+2022-03-19T13:19:27.405Z - info: Generating pages...
+2022-03-19T13:19:27.771Z - warn: You might have an invalid intra-link! Ignore this warning if it was intended.
+'/mailto:htgbyf0303@gmail.com' found in file 'C:\projects_rss\rsschool-cv\index.md'
+2022-03-19T13:19:27.865Z - info: Pages built
+2022-03-19T13:19:28.544Z - info: Site data built
+2022-03-19T13:19:28.547Z - info: Website generation complete! Total build time: 1.551s
+2022-03-19T13:19:28.699Z - info: Serving "C:\projects_rss\rsschool-cv\_site" at http://127.0.0.1:8080
+2022-03-19T13:19:28.701Z - info: Press CTRL+C to stop ...
+2022-03-19T13:24:26.475Z - error: Cloning into '..\..\Users\Мария Репина\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\gh-pages\.cache\git@github.com!bolianSock!rsschool-cv.git'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+

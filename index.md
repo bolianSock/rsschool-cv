@@ -2,7 +2,7 @@
 # Repina Maria :two_women_holding_hands:
 
 
-![photo](https://sun9-5.userapi.com/impg/NluBkrnbUeCmQsU7JcZMTrMlJCE-3zK4jRUI8w/H3SnLOW8SQs.jpg?size=1040x493&quality=95&sign=5bf23b5f02d07960d52d64438777bdf6&type=album)
+![photo](https://sun9-5.userapi.com/impg/NluBkrnbUeCmQsU7JcZMTrMlJCE-3zK4jRUI8w/H3SnLOW8SQs.jpg?size=1040x493&quality=95&sign=5bf23b5f02d07960d52d64438777bdf6&type=albumV)
 
 ## Contact [](#About-myself:)
 __phone__ +7 999 515-54-86
